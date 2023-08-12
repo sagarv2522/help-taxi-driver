@@ -31,7 +31,7 @@
 | Tolls_amount | Total amount of all tolls paid in trip |
 | Total_amount | The total amount charged to passengers. Does not include cash tips |
 
-# Random Forest 🌳
+## Random Forest 🌳
 
 Random forest algorithm is an ensemble learning technique combining numerous classifiers to enhance a model's performance. Random Forest is a supervised machine-learning algorithm made up of decision trees. Random Forest is used for both classification and regression problems.
 
@@ -40,8 +40,15 @@ Random forest algorithm is an ensemble learning technique combining numerous cla
   <br>
 For more visit the documentation [sklearn.ensemble.RandomForestClassifier](https://scikitlearn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html#sklearn.ensemble.RandomForestClassifier)
 
-# XGBoost Classifier
+## XGBoost Classifier
 
 XgBoost is a gradient boosting algorithm for supervised learning. It's a highly efficient and scalable implementation of the boosting algorithm, with performance comparable to that of other state-of-the-art machine learning algorithms in most cases.
 
 ![XGBoost](https://github.com/sagarv2522/help-taxi-driver/blob/main/image/image-xgboost.png)
+
+## Feature Importance
+
+![feature](https://github.com/sagarv2522/help-taxi-driver/blob/main/image/feature%20importance.png)
+
+
+
