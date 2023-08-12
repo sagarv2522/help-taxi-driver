@@ -44,3 +44,4 @@ For more visit the documentation [sklearn.ensemble.RandomForestClassifier](https
 
 XgBoost is a gradient boosting algorithm for supervised learning. It's a highly efficient and scalable implementation of the boosting algorithm, with performance comparable to that of other state-of-the-art machine learning algorithms in most cases.
 
+![XGBoost](https://github.com/sagarv2522/help-taxi-driver/blob/main/image/image-xgboost.png)
