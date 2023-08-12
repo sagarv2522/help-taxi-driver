@@ -52,3 +52,9 @@ XgBoost is a gradient boosting algorithm for supervised learning. It's a highly 
 
 
 
+<p align="center">
+  <a href="https://github.com/sagarv2522/help-taxi-driver/blob/main/Automatidata%20project.ipynb" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Code-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Animated Button">
+  </a>
+</p>
+
