@@ -35,6 +35,9 @@
 
 Random forest algorithm is an ensemble learning technique combining numerous classifiers to enhance a model's performance. Random Forest is a supervised machine-learning algorithm made up of decision trees. Random Forest is used for both classification and regression problems.
 
+![RandomForest](https://github.com/sagarv2522/help-taxi-driver/blob/main/image/random-forest-algorithm.png)
+ <br>
+  <br>
 For more visit the documentation [sklearn.ensemble.RandomForestClassifier](https://scikitlearn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html#sklearn.ensemble.RandomForestClassifier)
 
 # XGBoost Classifier
