@@ -1,5 +1,21 @@
 # Helping Revenue For Taxi Drivers 🚕 in USA 🌎
 
+<div align="left">
+
+[![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/pandas-%23150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-%2300768B?style=flat-square&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-%23D81F29?style=flat-square&logo=xgboost&logoColor=white)](https://xgboost.readthedocs.io/)
+
+<a href="https://colab.research.google.com/drive/1BwRls6UEAyFHK0OetdS3rz3hGqyuOZ6H#scrollTo=b-uUkJIFBvkB">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Code">
+</a>
+
+</div>
+
+
 * Automatidata works with its clients to transform their unused and stored data into useful solutions, such as performance dashboards, customer-facing tools, strategic business insights, and more. They specialize in identifying a client’s business needs and utilizing their data to meet those business needs. 
 
 * You build a machine learning model to predict if a customer will not leave a tip. They want to use the model in an app that will alert taxi drivers to customers who are unlikely to tip, since drivers depend on tips.
